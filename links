@@ -21,6 +21,7 @@ Pdf Text Highlights
  ManyToManyRelation
     https://stackoverflow.com/questions/27174157/add-spring-form-checkbox-selections-to-a-collection-and-persist-it
     https://blog.codecentric.de/en/2009/07/multiple-selects-mit-spring-mvc-2/(important)
+    https://stackoverflow.com/questions/18222077/spring-mvc-application-binding-many-to-many-list-object-in-form(important)
     
     https://stackoverflow.com/questions/9681601/count-the-number-of-element-of-same-class-in-a-div
 
