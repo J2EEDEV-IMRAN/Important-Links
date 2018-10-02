@@ -14,16 +14,6 @@ Tool Tip Master
 Spring boot+spring security complet configuration
           http://www.mkyong.com/spring-boot/spring-boot-spring-security-thymeleaf-example/
           
-Server side vs Clientside Rendering
-    https://www.youtube.com/watch?v=9RKX9KFeoDg
-DDOS attack
-     https://www.youtube.com/watch?v=bL_YPUejMdw
-     https://www.esecurityplanet.com/network-security/how-to-prevent-ddos-attacks.html
-
-Caching In webapp 
-     https://www.codementor.io/meysamsamanpour/caching-in-web-applications-fz1gzizpa
-     https://stackoverflow.com/questions/24164014/how-to-enable-http-response-caching-in-spring-boot/24179151(caching in springboot)
-     http://www.ehcache.org/documentation/2.8/recipes/pagecaching
 
 Serverside & Clientside Rendering
      https://www.youtube.com/watch?v=9RKX9KFeoDg
@@ -42,7 +32,19 @@ Pdf Text Highlights
     https://www.youtube.com/watch?v=BO-Gy4XC6QE
     
     https://stackoverflow.com/questions/9681601/count-the-number-of-element-of-same-class-in-a-div
-    
+ 
+ 
+ Server side vs Clientside Rendering
+    https://www.youtube.com/watch?v=9RKX9KFeoDg
+DDOS attack
+     https://www.youtube.com/watch?v=bL_YPUejMdw
+     https://www.esecurityplanet.com/network-security/how-to-prevent-ddos-attacks.html
+
+Caching In webapp 
+     https://www.codementor.io/meysamsamanpour/caching-in-web-applications-fz1gzizpa
+     https://stackoverflow.com/questions/24164014/how-to-enable-http-response-caching-in-spring-boot/24179151(caching in springboot)
+     http://www.ehcache.org/documentation/2.8/recipes/pagecaching
+     
  xss(cross site scripting):
      https://www.youtube.com/watch?v=0udG5OETQMw
      https://www.youtube.com/watch?v=cUdpWTx8o4I
@@ -57,12 +59,12 @@ hostin in aws:
 
 jpa converter
     https://www.thoughts-on-java.org/jpa-21-how-to-implement-type-converter/
-    
-Facebook Hacking
-    https://github.com/4w4k3/BeeLogger
-    https://www.youtube.com/watch?v=13ULZ3vc0gw
+
     
 Online PDF editor:
     https://www.youtube.com/watch?v=rk-Z3U4JanE(ASP.NET)
     https://code.msdn.microsoft.com/PDF-Editor-to-Edit-PDF-5fb73b8d/sourcecode?fileId=134231&pathId=355358311(ASP.NET)
     https://www.youtube.com/watch?v=PBAqpJzmlTI(JAVA)
+    
+    MOV:
+    https://www.hoichoi.tv/
