@@ -22,6 +22,8 @@ DDOS attack
 
 Caching In webapp 
      https://www.codementor.io/meysamsamanpour/caching-in-web-applications-fz1gzizpa
+     https://stackoverflow.com/questions/24164014/how-to-enable-http-response-caching-in-spring-boot/24179151(caching in springboot)
+     http://www.ehcache.org/documentation/2.8/recipes/pagecaching
 
 Serverside & Clientside Rendering
      https://www.youtube.com/watch?v=9RKX9KFeoDg
