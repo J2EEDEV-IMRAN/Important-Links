@@ -24,7 +24,9 @@ Serverside & Clientside Rendering
 Pdf Text Highlights
     https://gist.github.com/joelkuiper/9eb52555e02edb653dcf
     
-    
+Load balancing & Caching
+    https://www.youtube.com/watch?v=U9P96XQ2688
+        
  ManyToManyRelation
     https://stackoverflow.com/questions/27174157/add-spring-form-checkbox-selections-to-a-collection-and-persist-it
     https://blog.codecentric.de/en/2009/07/multiple-selects-mit-spring-mvc-2/(important)
