@@ -54,6 +54,9 @@ Caching In webapp
      https://www.youtube.com/watch?v=0udG5OETQMw
      https://www.youtube.com/watch?v=cUdpWTx8o4I
      
+ (X-Frame-Options • X-Content-Type-Options • X-XSS-Protection)
+     https://stackoverflow.com/questions/40267011/how-do-i-set-x-frame-options-as-response-header-in-angularjs
+     
 How to control web page caching, across all browsers
      https://stackoverflow.com/questions/49547/how-to-control-web-page-caching-across-all-browsers
 
