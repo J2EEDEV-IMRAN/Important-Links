@@ -65,6 +65,9 @@ Source page contains Mix content
 
 How to control web page caching, across all browsers
      https://stackoverflow.com/questions/49547/how-to-control-web-page-caching-across-all-browsers
+ 
+Secure Tomcat with Set-Cookies Secure Flag 
+     https://geekflare.com/secure-cookie-flag-in-tomcat/
 
 
 hostin in aws:
