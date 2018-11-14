@@ -59,6 +59,7 @@ Caching In webapp
  
  (X-Frame-Options • X-Content-Type-Options • X-XSS-Protection)
      https://stackoverflow.com/questions/40267011/how-do-i-set-x-frame-options-as-response-header-in-angularjs
+     https://vk4u.wordpress.com/2017/03/02/how-to-enable-security-filters-in-tomcat/
  
 Source page contains Mix content
      https://stackoverflow.com/questions/18251128/why-am-i-suddenly-getting-a-blocked-loading-mixed-active-content-issue-in-fire    
