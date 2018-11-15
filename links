@@ -78,6 +78,9 @@ hostin in aws:
 jpa converter
     https://www.thoughts-on-java.org/jpa-21-how-to-implement-type-converter/
 
+REST:
+    (ErrorHandling in Spring Security for @PreAuthorize AccessDeniedException returns 500 rather then 401)
+    https://stackoverflow.com/questions/43439181/errorhandling-in-spring-security-for-preauthorize-accessdeniedexception-returns
     
 Online PDF editor:
     https://www.youtube.com/watch?v=rk-Z3U4JanE(ASP.NET)
