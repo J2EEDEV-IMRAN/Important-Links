@@ -1,7 +1,7 @@
 CSRF:    
     https://www.youtube.com/watch?v=5cWSdMUsy0o
     https://www.codesandnotes.be/2015/02/05/spring-securitys-csrf-protection-for-rest-services-the-client-side-and-the-server-side/
-    
+
 java 8:
     https://java2blog.com/dynamic-method-dispatch-java/
 POI:
@@ -122,6 +122,9 @@ SOME IMPORTANT LINKS
   https://www.youtube.com/watch?v=UuV5kcsb8ho
   https://stackoverflow.com/questions/14102334/how-to-prevent-sql-injection-with-jpa-and-hibernate
   http://codebetter.com/raymondlewallen/2005/07/19/4-major-principles-of-object-oriented-programming/
+  OOP PRINCIPLE
+  https://www.youtube.com/watch?v=shNEPGoWmMY
+  
 Java Memory Leake or outofmemory problem:
   Important -> (https://www.baeldung.com/java-memory-leaks)
   https://stackoverflow.com/questions/37335/how-to-deal-with-java-lang-outofmemoryerror-java-heap-space-error-64mb-heap
