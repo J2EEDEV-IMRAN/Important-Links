@@ -1,2 +1,39 @@
 jsp
 https://www.java-samples.com/showtutorial.php?tutorialid=1009
+
+Domain model:
+ https://stackoverflow.com/questions/1863537/what-is-a-domain-model
+ https://en.wikipedia.org/wiki/Anemic_domain_model
+ https://stackoverflow.com/questions/23314330/rich-vs-anemic-domain-model
+
+Indexing and Hashing:
+    https://www.youtube.com/watch?v=PLyJrCH5CxY
+SOME IMPORTANT LINKS
+  https://www.geeksforgeeks.org/equals-hashcode-methods-java/
+  https://www.geeksforgeeks.org/volatile-keyword-in-java/
+  https://stackoverflow.com/questions/11771984/sql-query-to-find-nth-highest-salary-from-a-salary-table
+  https://www.geeksforgeeks.org/difference-equals-method-java/
+  https://www.youtube.com/watch?v=UuV5kcsb8ho
+  https://stackoverflow.com/questions/14102334/how-to-prevent-sql-injection-with-jpa-and-hibernate
+  http://codebetter.com/raymondlewallen/2005/07/19/4-major-principles-of-object-oriented-programming/
+  OOP PRINCIPLE
+  https://www.youtube.com/watch?v=shNEPGoWmMY
+  
+Java Memory Leake or outofmemory problem:
+  Important -> (https://www.baeldung.com/java-memory-leaks)
+  https://stackoverflow.com/questions/37335/how-to-deal-with-java-lang-outofmemoryerror-java-heap-space-error-64mb-heap
+  https://www.youtube.com/watch?v=bspS-uTK0IM
+  
+Bean Scope:
+   https://www.youtube.com/watch?v=pWmMVhg440k
+
+Software architecture TIR
+    https://www.youtube.com/watch?v=ccOzcjHQVos&feature=youtu.be
+  
+SDLC
+  https://www.youtube.com/watch?v=JlIzqA9WNgQ&list=PLO5ukZOcWQx2Q8McFKIsAHBJCLmXjKziS&index=3  
+  
+  https://stackoverflow.com/questions/2741832/unit-tests-vs-functional-tests
+  
+Differcence Between SOA and Microservices
+https://www.quora.com/What-is-the-advantage-of-Microservices-architecture-over-Service-Oriented-Architecture-SOA
