@@ -1,6 +1,22 @@
 SOLID:
 https://www.javabrahman.com/programming-principles/single-responsibility-principle-with-example-in-java/
 
+-----------------------MULTI THREADING-----------------------------------------
+https://dzone.com/articles/spring-and-threads-taskexecutor
+https://egkatzioura.com/2017/10/25/spring-and-async/
+https://github.com/gkatzioura/egkatzioura.wordpress.com/tree/master/SpringThreading
+https://stackoverflow.com/questions/17659510/core-pool-size-vs-maximum-pool-size-in-threadpoolexecutor
+
+
+
+---------------------Copy---------------------------------------------------
+https://javaconceptoftheday.com/difference-between-shallow-copy-vs-deep-copy-in-java/
+---------------------clone----------------------------------------------------
+https://stackoverflow.com/questions/1175620/in-java-what-is-a-shallow-copy
+
+-----------------------MULTIPLE_DISPATCHER----------------------------------
+https://stackoverflow.com/questions/53533321/when-do-we-need-multiple-dispatcher-servlet
+
 NEW LINK
 https://stackoverflow.com/questions/35807056/how-many-ways-are-there-to-configure-the-spring-framework-what-are-the-differen
 https://www.javacodegeeks.com/2018/04/jpa-tips-avoiding-the-n-1-select-problem.html
