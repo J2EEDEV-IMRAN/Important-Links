@@ -2,6 +2,9 @@
 spring bean lifecycle:
 https://www.youtube.com/watch?v=_tCX2TFIv6k
 
+Bean Scope:
+https://www.youtube.com/watch?v=pWmMVhg440k
+
 Difference between spring and sping boot:
  https://www.youtube.com/watch?v=bNFoN956P2A
 
@@ -11,9 +14,11 @@ https://www.youtube.com/watch?v=Enw4v6SuvSs&list=PLVz2XdJiJQxwS8FyWnWyKyfILxHPLs
 https://www.boraji.com/spring-4-qualifier-annotation-example
 https://stackoverflow.com/questions/9106416/difference-between-qualifier-and-resource
 
+
+
+-----------------------MULTIPLE_DISPATCHER----------------------------------
+https://stackoverflow.com/questions/53533321/when-do-we-need-multiple-dispatcher-servlet
   
-Bean Scope:
-https://www.youtube.com/watch?v=pWmMVhg440k
 
 ----------------------------------------exception in spring boot and spring mvc-------------------------------------
 https://stackoverflow.com/questions/34680985/what-is-the-difference-between-asynchronous-programming-and-multithreading
