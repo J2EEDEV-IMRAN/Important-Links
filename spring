@@ -1,0 +1,35 @@
+
+spring bean lifecycle:
+https://www.youtube.com/watch?v=_tCX2TFIv6k
+
+------------------------------@Autowire  @qualifier vs @resource--------------------------------
+https://www.youtube.com/watch?v=Enw4v6SuvSs&list=PLVz2XdJiJQxwS8FyWnWyKyfILxHPLsiro
+https://www.boraji.com/spring-4-qualifier-annotation-example
+https://stackoverflow.com/questions/9106416/difference-between-qualifier-and-resource
+
+  
+Bean Scope:
+https://www.youtube.com/watch?v=pWmMVhg440k
+
+----------------------------------------exception in spring boot and spring mvc-------------------------------------
+https://stackoverflow.com/questions/34680985/what-is-the-difference-between-asynchronous-programming-and-multithreading
+https://www.toptal.com/java/spring-boot-rest-api-error-handling
+https://spring.io/blog/2013/11/01/exception-handling-in-spring-mvc
+https://www.baeldung.com/exception-handling-for-rest-with-spring
+
+
+-----------------------spring aouth2----------------------------------------
+https://www.youtube.com/watch?v=-p4masBKPb0&list=PL6XUAtyoyCNEf9fdqovhwD3xIJxUy8CNL&index=2
+https://developer.okta.com/blog/2019/05/13/angular-8-spring-boot-2
+https://www.youtube.com/watch?v=8ueiZf988qY&list=PLNXYJUOw2sU6x-4FCEcmDTnsb5AtMwnE7
+https://www.youtube.com/watch?v=wxebTn_a930
+https://github.com/zianwar/springboot-crud-demo
+https://www.youtube.com/watch?v=EifpajKQOOQ
+https://www.devglan.com/spring-security/spring-boot-oauth2-angular
+
+i->https://www.youtube.com/watch?v=Tf_VWOSKOQ4&list=PLVz2XdJiJQxwAhzEZSpDqXlfT7XvNPDIE
+angular 8 with spring boot https://www.youtube.com/watch?v=VqfYbxbYp5I&list=PLNJ45zGBGZzcn4_c7vQRIykhxZdqF4wLQ&index=2
+https://www.youtube.com/watch?v=lYMKywB46go&t=1s
+
+--------------------------------difference between spring bean and java bean and object--------------------------
+https://stackoverflow.com/questions/21866571/difference-between-javabean-and-spring-bean
