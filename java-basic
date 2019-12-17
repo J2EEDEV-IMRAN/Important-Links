@@ -1,0 +1,46 @@
+
+-------------------------------------------------jdk analysis--------------------------------------------------
+https://www.quora.com/Is-jvm-platform-independent-or-dependent
+https://stackoverflow.com/questions/2120654/why-is-the-jvm-not-platform-independent-given-that-java-the-language-is-platf
+https://www.quora.com/Is-it-possible-to-execute-a-Java-programme-without-using-JDK
+
+
+OOP PRINCIPLE
+https://www.youtube.com/watch?v=shNEPGoWmMY
+ 
+ SOLID:
+https://stackoverflow.com/questions/51883363/is-this-correct-understanding-of-liskov-substitution-principle
+https://www.javabrahman.com/programming-principles/single-responsibility-principle-with-example-in-java/
+open-close-plinciple ->https://www.youtube.com/watch?v=P-OttkIo-_4
+                       https://dzone.com/articles/the-openclosed-principle
+ 
+ 
+When to Use abstract class or interface:
+https://www.quora.com/What-is-the-purpose-of-Abstract-Class-in-Java
+  https://stackoverflow.com/questions/1221512/when-to-use-abstract-class-or-interface
+  
+---------------------Copy---------------------------------------------------
+https://we-are.bookmyshow.com/understanding-deep-and-shallow-copy-in-javascript-13438bad941c
+https://javaconceptoftheday.com/difference-between-shallow-copy-vs-deep-copy-in-java/
+---------------------clone----------------------------------------------------
+https://stackoverflow.com/questions/1175620/in-java-what-is-a-shallow-copy
+  
+  -----------------------MULTI THREADING-----------------------------------------
+https://stackoverflow.com/questions/34680985/what-is-the-difference-between-asynchronous-programming-and-multithreading
+https://www.youtube.com/watch?v=FChZP09Ba4E
+https://www.youtube.com/watch?v=106WWFvgNW0
+atomic class and lock-> https://www.youtube.com/watch?v=Wrue8Tf93MI    https://www.youtube.com/watch?v=2Bvz_jsQPHk
+
+https://dzone.com/articles/spring-and-threads-taskexecutor
+https://netjs.blogspot.com/2018/10/spring-thread-pooling-support-using-taskexecutor.html
+https://egkatzioura.com/2017/10/25/spring-and-async/
+https://github.com/gkatzioura/egkatzioura.wordpress.com/tree/master/SpringThreading
+https://stackoverflow.com/questions/17659510/core-pool-size-vs-maximum-pool-size-in-threadpoolexecutor
+Concurrency->https://spring.io/guides/gs/async-method/
+  
+Java Memory Leake or outofmemory problem:
+  Important -> (https://www.baeldung.com/java-memory-leaks)
+  https://stackoverflow.com/questions/37335/how-to-deal-with-java-lang-outofmemoryerror-java-heap-space-error-64mb-heap
+  https://www.youtube.com/watch?v=bspS-uTK0IM
+
+
