@@ -2,6 +2,10 @@
 spring bean lifecycle:
 https://www.youtube.com/watch?v=_tCX2TFIv6k
 
+Difference between spring and sping boot:
+ https://www.youtube.com/watch?v=bNFoN956P2A
+
+
 ------------------------------@Autowire  @qualifier vs @resource--------------------------------
 https://www.youtube.com/watch?v=Enw4v6SuvSs&list=PLVz2XdJiJQxwS8FyWnWyKyfILxHPLsiro
 https://www.boraji.com/spring-4-qualifier-annotation-example
@@ -33,3 +37,6 @@ https://www.youtube.com/watch?v=lYMKywB46go&t=1s
 
 --------------------------------difference between spring bean and java bean and object--------------------------
 https://stackoverflow.com/questions/21866571/difference-between-javabean-and-spring-bean
+
+
+
