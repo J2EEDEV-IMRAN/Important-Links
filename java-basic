@@ -6,10 +6,6 @@ https://www.quora.com/Is-jvm-platform-independent-or-dependent
 https://stackoverflow.com/questions/2120654/why-is-the-jvm-not-platform-independent-given-that-java-the-language-is-platf
 https://www.quora.com/Is-it-possible-to-execute-a-Java-programme-without-using-JDK
 
-
-cloning:
-https://www.youtube.com/watch?v=ws8ZYaCmQxc
-
 OOP PRINCIPLE
 https://www.youtube.com/watch?v=shNEPGoWmMY
  
@@ -33,8 +29,10 @@ https://www.quora.com/What-is-the-purpose-of-Abstract-Class-in-Java
   https://stackoverflow.com/questions/1221512/when-to-use-abstract-class-or-interface
   
 ---------------------Copy---------------------------------------------------
-https://we-are.bookmyshow.com/understanding-deep-and-shallow-copy-in-javascript-13438bad941c
 https://javaconceptoftheday.com/difference-between-shallow-copy-vs-deep-copy-in-java/
+cloning:
+--------------------------------------------
+https://www.youtube.com/watch?v=ws8ZYaCmQxc
 ---------------------clone----------------------------------------------------
 https://stackoverflow.com/questions/1175620/in-java-what-is-a-shallow-copy
 
