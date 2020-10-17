@@ -30,6 +30,19 @@ https://www.quora.com/What-is-the-purpose-of-Abstract-Class-in-Java
   
 ---------------------Copy---------------------------------------------------
 https://javaconceptoftheday.com/difference-between-shallow-copy-vs-deep-copy-in-java/
+
+equal and hash method
+-------------------------
+  https://www.geeksforgeeks.org/equals-hashcode-methods-java/
+volatile 
+  https://www.geeksforgeeks.org/volatile-keyword-in-java/
+== vs equals
+------------
+  https://www.geeksforgeeks.org/difference-equals-method-java/
+sql injection
+------------
+  https://stackoverflow.com/questions/14102334/how-to-prevent-sql-injection-with-jpa-and-hibernate
+
 cloning:
 --------------------------------------------
 https://www.youtube.com/watch?v=ws8ZYaCmQxc
