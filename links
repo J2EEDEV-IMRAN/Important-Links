@@ -1,46 +1,35 @@
+Secure Tomcat with Set-Cookies Secure Flag 
+     https://geekflare.com/secure-cookie-flag-in-tomcat/
+     
+How to control web page caching, across all browsers
+     https://stackoverflow.com/questions/49547/how-to-control-web-page-caching-across-all-browsers
 
 CSRF:    
     https://www.youtube.com/watch?v=5cWSdMUsy0o
     https://www.codesandnotes.be/2015/02/05/spring-securitys-csrf-protection-for-rest-services-the-client-side-and-the-server-side/
+    
+DDOS attack
+     https://www.youtube.com/watch?v=bL_YPUejMdw
+     https://www.esecurityplanet.com/network-security/how-to-prevent-ddos-attacks.html
 
-java 8:
-    https://java2blog.com/dynamic-method-dispatch-java/
-POI:
-     https://www.jackrutorial.com/2018/02/generate-excel-file-and-pdf-file-in-spring-4-mvc-using-apache-poi-itext-pdf-tutorial.html
-Groovy
-       https://www.youtube.com/watch?v=t_G-ErGOopg&list=PLV5pw9tmSUixtBxjouVy503cRQA3cG54K&index=3
- Utile working with wod file    
-       https://www.programcreek.com/java-api-examples/?code=eamonfoy/trello-to-markdown/trello-to-markdown-master/src/main/java/com/efoy/eboard/utils/DOCXUtils.java#
- Utile and markdown is very effective:
-       https://www.programcreek.com/java-api-examples/?code=jdesive/textmd/textmd-master/src/main/java/com/desive/markdown/MarkdownParser.java#
- Dynamic doc file with java:
-     https://chillyfacts.com/create-document-file-dynamically-using-java/
-Microservices
-    https://github.com/olivergierke/rest-microservices
-    https://www.youtube.com/watch?v=tH7ibFfUTNs
-    http://www.baeldung.com/introduction-to-hystrix(hysyrtics)
-    
-web service client with WSDL in Eclipse
-    https://www.youtube.com/watch?v=11iGyrvBhzc
-    https://github.com/discospiff/JavaFullStackEnterpriseWeb
-    
-Design Pattern
-    https://dzone.com/articles/gof-design-patterns-using-java-part-1
-    https://github.com/iluwatar/java-design-patterns/tree/master/layers
-    https://medium.com/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82-%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE/%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8-%E0%A6%B8%E0%A6%AB%E0%A6%9F%E0%A6%93%E0%A7%9F%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0-%E0%A6%A1%E0%A7%87%E0%A6%AD%E0%A6%B2%E0%A6%AA%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE-8daeca237acd
-
-Load Balancing
-    https://www.youtube.com/watch?v=yNuuoQLw0tA
-    
-Tool Tip Master
-    http://iamceege.github.io/tooltipster/
-    
+Caching In webapp 
+     https://www.codementor.io/meysamsamanpour/caching-in-web-applications-fz1gzizpa
+     https://stackoverflow.com/questions/24164014/how-to-enable-http-response-caching-in-spring-boot/24179151(caching in springboot)
+     http://www.ehcache.org/documentation/2.8/recipes/pagecaching
+     
+ xss(cross site scripting):
+     https://www.youtube.com/watch?v=0udG5OETQMw
+     https://www.youtube.com/watch?v=cUdpWTx8o4I
+ 
+ (X-Frame-Options • X-Content-Type-Options • X-XSS-Protection)
+     https://stackoverflow.com/questions/40267011/how-do-i-set-x-frame-options-as-response-header-in-angularjs
+     https://vk4u.wordpress.com/2017/03/02/how-to-enable-security-filters-in-tomcat/
+ 
+Differcence Between SOA and Microservices
+  https://www.quora.com/What-is-the-advantage-of-Microservices-architecture-over-Service-Oriented-Architecture-SOA
+     
 Spring boot+spring security complet configuration
           http://www.mkyong.com/spring-boot/spring-boot-spring-security-thymeleaf-example/
-          
-
-Serverside & Clientside Rendering
-     https://www.youtube.com/watch?v=9RKX9KFeoDg
     
  Jasper Report
     https://www.youtube.com/watch?v=AfC6MlWrXqY
@@ -59,62 +48,25 @@ Load balancing & Caching
     
     https://stackoverflow.com/questions/9681601/count-the-number-of-element-of-same-class-in-a-div
  
- 
 Server side vs Clientside Rendering
     https://www.youtube.com/watch?v=9RKX9KFeoDg
-DDOS attack
-     https://www.youtube.com/watch?v=bL_YPUejMdw
-     https://www.esecurityplanet.com/network-security/how-to-prevent-ddos-attacks.html
-
-Caching In webapp 
-     https://www.codementor.io/meysamsamanpour/caching-in-web-applications-fz1gzizpa
-     https://stackoverflow.com/questions/24164014/how-to-enable-http-response-caching-in-spring-boot/24179151(caching in springboot)
-     http://www.ehcache.org/documentation/2.8/recipes/pagecaching
-     
- xss(cross site scripting):
-     https://www.youtube.com/watch?v=0udG5OETQMw
-     https://www.youtube.com/watch?v=cUdpWTx8o4I
- 
- Incomplete or no cache controle:
-     https://stackoverflow.com/questions/49547/how-to-control-web-page-caching-across-all-browsers
- 
- (X-Frame-Options • X-Content-Type-Options • X-XSS-Protection)
-     https://stackoverflow.com/questions/40267011/how-do-i-set-x-frame-options-as-response-header-in-angularjs
-     https://vk4u.wordpress.com/2017/03/02/how-to-enable-security-filters-in-tomcat/
- 
-Source page contains Mix content
-     https://stackoverflow.com/questions/18251128/why-am-i-suddenly-getting-a-blocked-loading-mixed-active-content-issue-in-fire    
-
-How to control web page caching, across all browsers
-     https://stackoverflow.com/questions/49547/how-to-control-web-page-caching-across-all-browsers
- 
-Secure Tomcat with Set-Cookies Secure Flag 
-     https://geekflare.com/secure-cookie-flag-in-tomcat/
-
-Java - How to read word file using Apache POI
-     https://www.youtube.com/watch?v=CCgcMGdKurw
-
-hostin in aws:
-      https://www.youtube.com/watch?v=jtyk_2_f3d0
-      https://www.youtube.com/watch?v=ZHjOF4XBdiw
 
 jpa converter
     https://www.thoughts-on-java.org/jpa-21-how-to-implement-type-converter/
-
-REST:
-    (ErrorHandling in Spring Security for @PreAuthorize AccessDeniedException returns 500 rather then 401)
-    https://stackoverflow.com/questions/43439181/errorhandling-in-spring-security-for-preauthorize-accessdeniedexception-returns
-    
-Online PDF editor:
-    https://www.youtube.com/watch?v=rk-Z3U4JanE(ASP.NET)
-    https://code.msdn.microsoft.com/PDF-Editor-to-Edit-PDF-5fb73b8d/sourcecode?fileId=134231&pathId=355358311(ASP.NET)
-    https://www.youtube.com/watch?v=PBAqpJzmlTI(JAVA)
-    
-JMS:
-    https://www.youtube.com/watch?v=MhqECZAJyPE
  
  Indexing and Hashing:
     https://www.youtube.com/watch?v=PLyJrCH5CxY
+ Microservices
+    https://github.com/olivergierke/rest-microservices
+    https://www.youtube.com/watch?v=tH7ibFfUTNs
+    http://www.baeldung.com/introduction-to-hystrix(hysyrtics)
+    
+Software architecture TIR
+    https://www.youtube.com/watch?v=ccOzcjHQVos&feature=youtu.be
+  
+SDLC
+  https://www.youtube.com/watch?v=JlIzqA9WNgQ&list=PLO5ukZOcWQx2Q8McFKIsAHBJCLmXjKziS&index=3  
+    
 SOME IMPORTANT LINKS
   https://www.geeksforgeeks.org/equals-hashcode-methods-java/
   https://www.geeksforgeeks.org/volatile-keyword-in-java/
@@ -123,24 +75,6 @@ SOME IMPORTANT LINKS
   https://www.youtube.com/watch?v=UuV5kcsb8ho
   https://stackoverflow.com/questions/14102334/how-to-prevent-sql-injection-with-jpa-and-hibernate
   http://codebetter.com/raymondlewallen/2005/07/19/4-major-principles-of-object-oriented-programming/
-  OOP PRINCIPLE
-  https://www.youtube.com/watch?v=shNEPGoWmMY
-  
-Java Memory Leake or outofmemory problem:
-  Important -> (https://www.baeldung.com/java-memory-leaks)
-  https://stackoverflow.com/questions/37335/how-to-deal-with-java-lang-outofmemoryerror-java-heap-space-error-64mb-heap
-  https://www.youtube.com/watch?v=bspS-uTK0IM
-  
-Bean Scope:
-   https://www.youtube.com/watch?v=pWmMVhg440k
+ 
 
-Software architecture TIR
-    https://www.youtube.com/watch?v=ccOzcjHQVos&feature=youtu.be
-  
-SDLC
-  https://www.youtube.com/watch?v=JlIzqA9WNgQ&list=PLO5ukZOcWQx2Q8McFKIsAHBJCLmXjKziS&index=3  
-  
-  https://stackoverflow.com/questions/2741832/unit-tests-vs-functional-tests
-  
-Differcence Between SOA and Microservices
-  https://www.quora.com/What-is-the-advantage-of-Microservices-architecture-over-Service-Oriented-Architecture-SOA
+
