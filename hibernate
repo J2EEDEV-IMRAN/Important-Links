@@ -1,6 +1,9 @@
 https://stackoverflow.com/questions/463349/jpa-eager-fetch-does-not-join
 https://stackoverflow.com/questions/16577907/hibernate-onetomany-relationship-causes-infinite-loop-or-empty-entries-in-json
 
+soln to n+1 prblm
+-----------------
+https://www.javacodegeeks.com/2018/04/jpa-tips-avoiding-the-n-1-select-problem.html
 
 way to call stored procedure in hibernate
 https://mkyong.com/hibernate/how-to-call-store-procedure-in-hibernate/
