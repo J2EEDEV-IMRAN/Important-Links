@@ -3,8 +3,9 @@ software layers:
    https://www.youtube.com/watch?v=VMDfSsd7YFU
 Monolethic vs microservice:
    https://www.youtube.com/watch?v=3uHs2U8k40I
-   
-  What is the difference between Monolith and n Layer?:
+Understanding stateful and stateless behabour
+  https://www.youtube.com/watch?v=nFPzI_Qg3FU
+What is the difference between Monolith and n Layer?:
       https://stackoverflow.com/questions/54965396/what-is-the-difference-between-a-monolithic-architecture-and-a-3-tier-architectu
       https://stackoverflow.com/questions/45661006/what-is-the-difference-between-monolith-and-n-layer
   Does a 3-tier web application need to have each tier on a different server?:
