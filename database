@@ -18,3 +18,6 @@ https://www.geeksforgeeks.org/database-objects-in-dbms/
  Salary query:
 https://stackoverflow.com/questions/20091125/nth-max-salary-in-oracle
 https://stackoverflow.com/questions/11771984/sql-query-to-find-nth-highest-salary-from-a-salary-table
+
+-----------------function and procedure calling in data jpa-------------
+https://www.baeldung.com/spring-data-jpa-stored-procedures
