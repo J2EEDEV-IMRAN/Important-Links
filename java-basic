@@ -39,6 +39,9 @@ volatile
 == vs equals
 ------------
   https://www.geeksforgeeks.org/difference-equals-method-java/
+  Comparable vs comparator
+  -------------------------------
+  https://www.youtube.com/watch?v=oAp4GYprVHM
 sql injection
 ------------
   https://stackoverflow.com/questions/14102334/how-to-prevent-sql-injection-with-jpa-and-hibernate
