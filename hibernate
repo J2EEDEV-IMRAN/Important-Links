@@ -10,3 +10,6 @@ https://mkyong.com/hibernate/how-to-call-store-procedure-in-hibernate/
 
 jpa join:
 https://www.baeldung.com/jpa-join-types
+
+------------joining in jpa repository-----------
+https://stackoverflow.com/questions/13154818/how-to-define-a-jpa-repository-query-with-a-join
